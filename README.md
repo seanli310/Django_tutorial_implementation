@@ -4,7 +4,7 @@ This repo is typically used for first year student to upload Django project lear
 
    Name      |   Andrew ID
 ---------------------------
-Yangqiu Peng |   yangqiup 
+Yangqiu Peng |   yangqiup                                            
 Shengbiao Li |   shengbil  
 Xiaoming Sun |   xiaomins
 
