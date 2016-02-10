@@ -6,3 +6,4 @@ This repo is typically used for first year student to upload Django project lear
 ---------------------------
 Shengbiao Li |   shengbil  
 Xiaoming Sun |   xiaomins
+
