@@ -7,4 +7,4 @@ This repo is typically used for first year student to upload Django project lear
 Yangqiu Peng |   yangqiup                                            
 Shengbiao Li |   shengbil  
 Xiaoming Sun |   xiaomins
-
+SooHyun Jeon |   sjeon2
